@@ -6,3 +6,6 @@
 ## About  
   
 Land use classification  
+
+![image](https://user-images.githubusercontent.com/37068938/114856698-b1bea680-9de7-11eb-9a7a-09e89e214425.png)
+
