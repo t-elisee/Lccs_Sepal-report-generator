@@ -1,0 +1,18 @@
+Code DDD,Groupe DDD,Nom,Description,lccs diagram,x,y,photo_plot,photo_planet,pays
+1,Forêt,Forêt Dense,"Forêt dense humide primaire sur terre ferme, >60% arborée",Ucl1.jpg,15.94936915,1.924033681,image1.jpg,pp1.jpg,GAB
+2,Forêt,Forêt Dense Sèche,"Forêt dense, 30-60% couverture arborée avec des saisons sèches",Ucl2.jpg,15.95047773,1.923051747,image2.jpg,pp2.jpg,CAM
+3,Forêt,Forêt Secondaire,"Forêt ouvert 30-60% couverture arborée, dégradée ou secondaire",Ucl3.jpg,15.94761377,1.921434807,image3.jpg,pp3.jpg,RDC
+4,Forêt,Forêt Claire Séche,"Forêt claire sèche 30-60% couverture arborée, avec des saisons sèches",Ucl4.jpg,13.25348211,5.24082234,image4.jpg,pp4.jpg,ROC
+5,Forêt,Forêt Sub-Montagnarde,"Forêt >30% de couverture arborée, 1100-1750m en altitude",Ucl5.jpg,8.842920827,4.657399675,image5.jpg,pp5.jpg,CAR
+6,Forêt,Forêt Montagnarde,"Forêt >30% de couverture arborée, >1750m en altitude",Ucl6.jpg,14.24447509,10.88047715,image6.jpg,pp6.jpg,EQG
+7,Forêt,Mangrove,"Forêt >30% de couverture arborée, sol hydromorphe",Ucl7.jpg,14.20173229,10.8850659,image7.jpg,pp7.jpg,
+8,Forêt,Forêt Marécageuse,"Forêt marécageuse mixte >30% couverture arborée, sol inondée >9 mois",Ucl8.jpg,13.93176606,10.95539134,image8.jpg,pp8.jpg,
+9,Forêt,Forêt galérie,Foret ripicole en fond de vallée ou en bordure de rivière,Ucl9.jpg,15.42274138,10.56640046,image9.jpg,pp9.jpg,
+10,Forêt,Savane arborée,Savane boisée 15-30% arboré,Ucl10.jpg,15.47478771,10.53423381,image10.jpg,pp10.jpg,
+11,Non-Forêt,Savanes arbustive,Savane >15% arbustive,Ucl11.jpg,15.07337471,4.289924766,image11.jpg,pp11.jpg,
+12,Non-Forêt,Prairie Aquatique,Couverture herbacée aquatique ou régulièrement inondée,Ucl12.jpg,15.12280903,4.285971697,image12.jpg,pp12.jpg,
+13,Non-Forêt,Sols nus - végétation éparse,<15% végétation,Ucl13.jpg,15.93735225,3.181544748,image13.jpg,pp13.jpg,
+14,Non-Forêt,Plantation forestière,Couverture arborée >15% végétation cultivée/gérée,Ucl14.jpg,16.00042934,-0.5307557377,image14.jpg,pp14.jpg,
+15,Non-Forêt,Terres Cultivées,Couverture arbustive cultivée >15% arbustif,Ucl15.jpg,15.99456239,-0.4434614743,image15.jpg,pp15.jpg,
+16,Non-Forêt,Zones bâties,Présence humaine,Ucl16.jpg,14.1932278,1.405170293,image16.jpg,pp16.jpg,
+17,Non-Forêt,Eau Libre,Eau > 50%,Ucl17.jpg,11.57408374,1.963438621,image17.jpg,pp17.jpg,
