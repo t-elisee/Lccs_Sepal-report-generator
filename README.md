@@ -7,5 +7,5 @@
   
 Land use classification  
 
-![image](https://user-images.githubusercontent.com/37068938/114856698-b1bea680-9de7-11eb-9a7a-09e89e214425.png)
+![image](https://user-images.githubusercontent.com/37068938/116693098-b6758400-a9bd-11eb-8448-e26b263e39d7.png)
 
